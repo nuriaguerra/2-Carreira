@@ -9,11 +9,11 @@
 
 | Materia | Área | Estado |
 |---|---|---|
-| [Programación Orientada a Obxetos](./1_Cuatri/Programacion_Orientada_a_Obxetos/) | Programación | 📝 En construción |
-| [Redes](./1_Cuatri/Redes/) | Sistemas | 📝 En construción |
-| [Sistemas Operativos I](./1_Cuatri/Sistemas_Operativos_I/) | Sistemas | 📝 En construción |
-| [Base de Datos I](./1_Cuatri/Base_de_Datos_I/) | Datos | 📝 En construción |
-| [Algoritmos e Estrutura de Datos](./1_Cuatri/Algoritmos_e_Estrutura_de_Datos/) | Programación | 📝 En construción |
+| [Programación Orientada a Obxetos](./1_Cuatri/Programacion_Orientada_a_Obxetos/) | Programación | ✅ Finalizada |
+| [Redes](./1_Cuatri/Redes/) | Sistemas | ✅ Finalizada |
+| [Sistemas Operativos I](./1_Cuatri/Sistemas_Operativos_I/) | Sistemas | ✅ Finalizada |
+| [Base de Datos I](./1_Cuatri/Base_de_Datos_I/) | Datos | ✅ Finalizada |
+| [Algoritmos e Estrutura de Datos](./1_Cuatri/Algoritmos_e_Estrutura_de_Datos/) | Programación | ✅ Finalizada |
 
 ## Segundo cuatrimestre
 
